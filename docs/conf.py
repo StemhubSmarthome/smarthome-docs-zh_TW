@@ -22,7 +22,6 @@ source_suffix = ['.rst', '.md']
 
 extensions = [
     'sphinx_markdown_tables',
-    'recommonmark'
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
