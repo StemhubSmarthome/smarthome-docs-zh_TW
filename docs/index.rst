@@ -1,10 +1,12 @@
 Welcome to Codesmine!
 ===================================
 
+
 Quick Start Guide
 ^^^^^^^^^^^^^^^^^
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
+
    smarthome/index
    

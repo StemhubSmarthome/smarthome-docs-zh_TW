@@ -1,10 +1,10 @@
 Smarthome 智能家居IoT學習套裝
 ===================================
 
-Contents
---------
 
 .. toctree::
-   :maxdepth: 2
-   first.md
+    :maxdepth: 1
+    :numbered: 3
+
+    first.md
 
