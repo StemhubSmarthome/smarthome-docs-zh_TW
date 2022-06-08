@@ -5,6 +5,6 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 2
    first.md
 
