@@ -11,7 +11,18 @@ version = '0.1.0'
 
 # -- General configuration
 
+from recommonmark.parser import CommonMarkParser
+from recommonmark.transform import AutoStructify
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
+source_suffix = ['.rst', '.md']
+
 extensions = [
+    'sphinx_markdown_tables',
+    'recommonmark'
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
