@@ -5,6 +5,6 @@ Quick Start Guide
 ^^^^^^^^^^^^^^^^^
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    smarthome/index
    

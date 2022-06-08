@@ -6,5 +6,5 @@ Contents
 
 .. toctree::
 
-   first
+   first.md
 
