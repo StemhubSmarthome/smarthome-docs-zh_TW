@@ -1,6 +1,6 @@
 # Welcome to Smarthome tutorial
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+智能家居套裝
 
 ## Commands
 
