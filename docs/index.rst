@@ -8,6 +8,6 @@ Quick Start Guide
 .. toctree::
    :maxdepth: 1
 
-   smarthome/index
-   smarthouse/index
+   source/smarthome/index
+   source/smarthouse/index
    

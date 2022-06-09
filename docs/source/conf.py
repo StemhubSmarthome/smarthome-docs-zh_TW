@@ -15,6 +15,9 @@ version = '0.1.0'
 # These folders are copied to the documentation's HTML output
 html_static_path = ['_static']
 
+#try fixing the .md file not displaying
+numpydoc_show_class_members = False
+
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
 html_css_files = [
@@ -31,8 +34,8 @@ source_parsers = {
 source_suffix = ['.rst', '.md']
 
 extensions = [
-    'sphinx_markdown_tables',
-    'recommonmark'
+     'recommonmark',
+     'sphinx_markdown_tables'
 #    'sphinx.ext.duration',
 #    'sphinx.ext.doctest',
 #    'sphinx.ext.autodoc',
