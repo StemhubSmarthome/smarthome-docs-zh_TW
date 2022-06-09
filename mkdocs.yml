@@ -14,6 +14,3 @@ nav:
         - source/smarthome/7.md
         - source/smarthome/8.md
 
-markdown_extensions:
-    - toc:
-        toc_depth: '2-4'
