@@ -11,7 +11,7 @@
 <P>
 <P>
 
-![auto_fit](pic/1/1_1(1).jpg)![auto_fit](pic/1/1_1(2).jpg)![auto_fit](pic/1/1_1(3).jpg)<BR>
+![auto_fit](pic/1/1_1(1).jpg,pic/1/1_1(2).jpg,pic/1/1_1(3).jpg)<BR>
 <P>
 圖1-1                                                                                                          
 <P>
