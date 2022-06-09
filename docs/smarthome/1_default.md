@@ -11,7 +11,7 @@
 <P>
 <P>
 
-![](pic/1/1_1(1).jpg)<BR>
+![](pic/1/1_1(1).jpg)<BR>![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
 <P>
 圖1-1                                                                                                          
 <P>
