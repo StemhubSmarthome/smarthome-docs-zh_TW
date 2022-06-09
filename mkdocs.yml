@@ -5,7 +5,7 @@ theme: readthedocs
 
 nav:
     - '智能家居套裝':
-        - 簡介: smarthome/1.md
+        - smarthome/1.md
         - smarthome/2.md
         - smarthome/3.md
         - smarthome/4.md
