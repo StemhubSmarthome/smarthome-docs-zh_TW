@@ -5,12 +5,12 @@ theme: readthedocs
 
 nav:
     - '智能家居套裝':
-        - 簡介: source/smarthome/1.md
-        - source/smarthome/2.md
-        - source/smarthome/3.md
-        - source/smarthome/4.md
-        - source/smarthome/5.md
-        - source/smarthome/6.md
-        - source/smarthome/7.md
-        - source/smarthome/8.md
+        - 簡介: smarthome/1.md
+        - smarthome/2.md
+        - smarthome/3.md
+        - smarthome/4.md
+        - smarthome/5.md
+        - smarthome/6.md
+        - smarthome/7.md
+        - smarthome/8.md
 
