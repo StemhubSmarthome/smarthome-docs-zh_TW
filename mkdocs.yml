@@ -2,3 +2,18 @@ site_name: Codesmine
 
 
 theme: readthedocs
+
+nav:
+    - '智能家居套裝':
+        - 簡介: source/smarthome/1.md
+        - source/smarthome/2.md
+        - source/smarthome/3.md
+        - source/smarthome/4.md
+        - source/smarthome/5.md
+        - source/smarthome/6.md
+        - source/smarthome/7.md
+        - source/smarthome/8.md
+
+markdown_extensions:
+    - toc:
+        toc_depth: '2-4'

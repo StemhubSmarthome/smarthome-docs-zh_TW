@@ -1,8 +1,8 @@
 # Welcome to Smarthome tutorial
 
-智能家居套裝
 
-## Commands
+## 課程
+
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
