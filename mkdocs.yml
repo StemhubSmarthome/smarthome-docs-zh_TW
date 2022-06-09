@@ -2,5 +2,3 @@ site_name: Codesmine
 
 
 theme: readthedocs
-
-mkdocs gh-deploy --force
