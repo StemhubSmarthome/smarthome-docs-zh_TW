@@ -1,4 +1,4 @@
-Welcome to Codesmine!
+Smarthome
 ===================================
 
 
@@ -10,4 +10,4 @@ Quick Start Guide
 
    first.md
    sec
-   
+   8   
