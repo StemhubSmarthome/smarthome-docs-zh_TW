@@ -11,3 +11,5 @@ Read the tutorial here for:
 https://docs.readthedocs.io/en/stable/tutorial/
 
 The webpage:https://stemhub-smarthome-docs-zh-tw.readthedocs.io/
+
+https://drive.google.com/drive/folders/1hxl6efrowpgZ4FcQtveZKsCN2bJHNDY8
