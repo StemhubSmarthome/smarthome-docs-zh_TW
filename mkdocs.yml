@@ -15,6 +15,7 @@ nav:
         - smarthome/8.md
 
     - '智慧城市物聯網課程':
+        - smartcity/intro.md
         - smartcity/1.md
         - smartcity/2.md
         - smartcity/3.md
@@ -23,4 +24,6 @@ nav:
         - smartcity/6.md
         - smartcity/7.md
         - smartcity/8.md
+        - smartcity/9.md
+        - smartcity/10.md
 
