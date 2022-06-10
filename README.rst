@@ -9,3 +9,5 @@ In mkdocs.yml, under "nav", those texts are for directing the documents and will
 
 Read the tutorial here for:
 https://docs.readthedocs.io/en/stable/tutorial/
+
+The webpage:https://stemhub-smarthome-docs-zh-tw.readthedocs.io/
