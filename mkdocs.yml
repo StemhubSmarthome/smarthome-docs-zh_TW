@@ -4,7 +4,7 @@ site_name: Codesmine
 theme: readthedocs
 
 nav:
-    - '智能家居套裝':
+    - '智能家居套裝課程':
         - smarthome/1.md
         - smarthome/2.md
         - smarthome/3.md
@@ -13,4 +13,14 @@ nav:
         - smarthome/6.md
         - smarthome/7.md
         - smarthome/8.md
+
+    - '智慧城市物聯網課程':
+        - smartcity/1.md
+        - smartcity/2.md
+        - smartcity/3.md
+        - smartcity/4.md
+        - smartcity/5.md
+        - smartcity/6.md
+        - smartcity/7.md
+        - smartcity/8.md
 
