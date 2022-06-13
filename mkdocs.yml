@@ -4,11 +4,6 @@ site_name: Codesmine
 theme: readthedocs
 
 nav:
-<<<<<<< HEAD
-    - '智能家居套裝': source/smarthome/index.md
-
-
-=======
     - '智能家居套裝課程':
         - smarthome/1.md
         - smarthome/2.md
@@ -35,4 +30,3 @@ nav:
 
 extra:
   generator: false
->>>>>>> dev
