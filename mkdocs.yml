@@ -14,3 +14,5 @@ nav:
         - smarthome/7.md
         - smarthome/8.md
 
+extra:
+  generator: false
