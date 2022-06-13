@@ -4,8 +4,9 @@ site_name: Codesmine
 theme: readthedocs
 
 nav:
-    - smarthome/index.md:
-        - smarthome/1.md
+    - 智能家居:
+        - smarthome/index.md:
+        - 第一課: smarthome/1.md
         - smarthome/2.md
         - smarthome/3.md
         - smarthome/4.md
