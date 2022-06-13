@@ -7,13 +7,7 @@ nav:
     - 智能家居:
         - smarthome/index.md:
         - 第一課: smarthome/1.md
-        - smarthome/2.md
-        - smarthome/3.md
-        - smarthome/4.md
-        - smarthome/5.md
-        - smarthome/6.md
-        - smarthome/7.md
-        - smarthome/8.md
+
 
     - '智慧城市物聯網課程':
         - smartcity/intro.md
