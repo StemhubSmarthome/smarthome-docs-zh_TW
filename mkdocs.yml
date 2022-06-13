@@ -5,7 +5,7 @@ theme: readthedocs
 
 nav:
     - '智能家居':
-        - smarthome/index.md:
+        - smarthome/index.md
             - 第一課: smarthome/1.md
 
 
