@@ -1,4 +1,3 @@
-<<<<<<< HEAD:docs/source/smarthome/index.md
 # Smarthome Microbit 智能家居IoT學習套裝
 
 ## 課程
