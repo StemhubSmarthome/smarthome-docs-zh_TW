@@ -27,3 +27,6 @@ nav:
         - smartcity/9.md
         - smartcity/10.md
 
+
+extra:
+  generator: false
