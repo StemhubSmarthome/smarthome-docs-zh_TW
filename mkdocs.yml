@@ -4,9 +4,9 @@ site_name: Codesmine
 theme: readthedocs
 
 nav:
-    - 智能家居:
+    - '智能家居':
         - smarthome/index.md:
-        - 第一課: smarthome/1.md
+            - 第一課: smarthome/1.md
 
 
     - '智慧城市物聯網課程':
