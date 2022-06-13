@@ -4,7 +4,7 @@ site_name: Codesmine
 theme: readthedocs
 
 nav:
-    - '智能家居套裝課程': smarthome/index.md
+    - smarthome/index.md:
         - smarthome/1.md
         - smarthome/2.md
         - smarthome/3.md
