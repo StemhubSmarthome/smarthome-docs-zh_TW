@@ -6,3 +6,6 @@
 
 
 [智慧城市物聯網](smartcity/1.md)
+
+extra:
+  generator: true
