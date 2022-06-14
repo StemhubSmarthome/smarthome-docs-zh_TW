@@ -2,7 +2,7 @@ site_name: Codesmine
 
 
 theme: readthedocs
-  language: zh-Hant
+
 nav:
     - '智能家居套裝課程':
         - smarthome/1.md
@@ -28,3 +28,13 @@ nav:
         - smartcity/10.md
 
 
+extra:
+    # Switch to English
+    - name: English
+      link: <your-site>/en/
+      lang: en
+
+    # Switch to Chinese
+    - name: Chinese (Traditional)
+      link: <your-site>/zh-Hant/
+      lang: zh-Hant
