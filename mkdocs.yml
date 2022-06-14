@@ -3,7 +3,7 @@ site_name: Codesmine
 
 
 
-theme:
+theme: readthedocs
 
 
 nav:
@@ -30,16 +30,4 @@ nav:
         - smartcity/9.md
         - smartcity/10.md
 
-extra:
-  alternate:
-
-    # Switch to English
-    - name: English
-      link: https://stemhub-smarthome-docs-zh-tw.readthedocs.io/en/dev
-      lang: en
-
-    # Switch to Chinese
-    - name: Chinese
-      link: https://stemhub-smarthome-docs-zh-tw.readthedocs.io/zh_TW/dev
-      lang: zh
 
