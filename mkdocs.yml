@@ -1,6 +1,7 @@
 site_name: Codesmine
 
-
+extra:
+  generator: false
 
 
 theme: readthedocs
