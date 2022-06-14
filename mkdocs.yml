@@ -28,13 +28,3 @@ nav:
         - smartcity/10.md
 
 
-extra:
-    # Switch to English
-    - name: English
-      link: <your-site>/en/
-      lang: en
-
-    # Switch to Chinese
-    - name: Chinese (Traditional)
-      link: <your-site>/zh-Hant/
-      lang: zh-Hant
