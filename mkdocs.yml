@@ -1,8 +1,9 @@
 site_name: Codesmine
 
 extra:
-  generator: true
-
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
 
 theme: readthedocs
 logo: logo.png
