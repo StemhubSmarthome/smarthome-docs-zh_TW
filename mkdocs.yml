@@ -33,8 +33,3 @@ extra:
     - name: English
       link: <your-site>/en/
       lang: en
-
-    # Switch to Chinese
-    - name: Chinese (Traditional)
-      link: <your-site>/zh-Hant/
-      lang: zh-Hant
