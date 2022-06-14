@@ -3,9 +3,7 @@ site_name: Codesmine
 
 
 
-theme:
-    name: readthedocs
-    locale: zh
+
 nav:
     - '智能家居套裝課程':
         - smarthome/1.md
