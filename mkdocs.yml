@@ -4,7 +4,7 @@ site_name: Codesmine
 
 
 theme: readthedocs
-
+logo: logo.png
 
 nav:
     - '智能家居套裝課程':
