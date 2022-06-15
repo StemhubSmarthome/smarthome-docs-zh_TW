@@ -1,7 +1,7 @@
+extra:
+  generator: false
+
 site_name: Codesmine
-
-
-
 
 theme: readthedocs
 logo: logo.png
