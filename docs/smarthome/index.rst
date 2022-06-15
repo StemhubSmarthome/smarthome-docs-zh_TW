@@ -1,4 +1,4 @@
-Smarthon Smart House Kit for micro:bit
+智能家居套裝課程 micro:bit
 ======================================
 
 
