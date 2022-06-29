@@ -16,4 +16,4 @@ Welcome to Codesmine!
 
     smarthome/index
     smartcity/index
-    microbit car/index
+    microbitcar/index
