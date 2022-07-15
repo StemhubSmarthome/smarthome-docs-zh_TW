@@ -17,3 +17,5 @@ Welcome to Codesmine!
     smarthome/index
     smartcity/index
     microbitcar/index
+    microbitcar_intermediate/index
+    microbitcar_advanced/index
